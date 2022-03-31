@@ -5,4 +5,4 @@ Creation Date: 28/03/2022
 
 -- X --
 
-Brazillian CEP Searcher for study purposes with React Native Hooks
+A simple chronometer app for Android and IOs provided with React Native Technology.
